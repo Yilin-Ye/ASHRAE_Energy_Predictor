@@ -1,5 +1,5 @@
 # ASHRAE - Great Energy Predictor III 
-# Final Score: 8th/3595
+# Final Score: 8th/3594
 
 ## Key information in the resources csv files
 
