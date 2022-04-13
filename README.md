@@ -212,4 +212,4 @@ https://www.kaggle.com/kernels/scriptcontent/24052407/download
 
 * PSO (Particle swarm optimization) is the best way. Best lb = 0.946 (Top 2% 62/3669)
 
-* average all these 6 submission and get Top 1% 8th/3595
+* average all these 6 submission and get Top 1% 8th/3594
